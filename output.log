@@ -1,0 +1,1988 @@
+Device: cuda
+模型和分词器加载成功
+
+[新生成] * The challenger should name the attribute in which you are allowed to select, and give themselves 5-10 seconds.?
+
+[新生成] A. What is the largest number you can write using only these four 2s?
+
+[新生成] https://www.sanantonio.gov/LaunchSA/Lists/Category%20Listings/TimedChallenges.htm?
+
+[新生成] What was the name of Britain's first Prime Minister?
+
+[新生成] Example: List five birds of prey (eagles, hawks etc) with different colored feathers.?
+
+[新生成] * For example, can define two lists with the following rules:?
+
+[新生成] in 10 minutes, how many can you name?
+
+[新生成] 1. "Ask me an adjective and I'll name five things that are like it" : https://github.com/ajayyy/adjective-generator?
+
+[新生成] e.g., list all even integers between 1 & 100, inclusive of endpoints. Then the only item satisfying this query is [2].?
+
+[新生成] Example: "List as many items of clothing beginning with the letter A" - would produce answers like Adidas, Asics, Armani etc.?
+
+[新生成] Examples: How many examples are there for the type “car” in domain “everyday life”?
+
+[新生成] "What can be bought in the store?
+
+[新生成] “Name all the plants in your garden that have pink flowers”?
+
+[新生成] "List 3 uses for energy. (You may use any kind you want.)"?
+
+[新生成] use commas to join the criteria together. For example, “List all 5-sided, convex polygons,” where there are two independent conditions.?
+
+[新生成] e.g., "list five fruit that start with C"?
+
+[新生成] "Given all integers from 1 to N, find how many perfect squares are there less than or equal to N."?
+
+[新生成] List five types of plants that need soil, water and sunlight.?
+
+[新生成] a variant in the form "enumerate __________" with an example domain.?
+
+[新生成] 'what is the smallest positive integer that has no digits in common with all of its multiples less than 10 ^{7}?
+
+[新生成] How can we find all the items which are in both lists?
+
+[新生成] "List the 5 types of things that happen to us on this journey."?
+
+[新生成] "How would you design an experiment that asks people what’s wrong with the following sentence?
+
+[新生成] "What is an example of a polynomial function with integer coefficients?
+
+[新生成] the minimum length, how many times it occurs in the text of your choice.?
+
+[新生成] (e.g. “what was the name of a major battle in WW2?
+
+[新生成] List all types of dogs, then cats and finally horses by their type.?
+
+[新生成] [name]. The following choices were suggested by users:?
+
+[新生成] (I have an idea, but it might be overly wordy) We are looking for a list of all the prime numbers between 1000 and 1013 such that they can also...?
+
+[新生成] "List types of functions" (or: List names/definitions/descriptions/examples of…")?
+
+[新生成] e.g., "List all the countries in Europe."?
+
+[新生成] Examples. For example, how many ways can I permute two distinct characters?
+
+[新生成] https://challenges.yahtzee.co.uk/challenge/fact-listing-english-countries-capitals?
+
+[新生成] "Explain what you understand by the statement that a function is continuous at x = 0 if and only if f(0+) exists."?
+
+[新生成] “list five things that are red” or "five movies about aliens"?
+
+[新生成] "list five items (in the category of cars) with four wheels"?
+
+[新生成] What might go wrong with this problem?
+
+[新生成] eg. List five foods that can be bought at Tesco.?
+
+[新生成] e.g. List as many animals that live in Africa.?
+
+[新生成] “List 3 applications of calculus in engineering.”?
+
+[新生成] List five things that are common in every state's constitution. Write your answer as a two-column list?
+
+[新生成] "List at least five examples each that you have seen used in the following fields: health care, business, and public service."?
+
+[新生成] "List all the numbers which are divisible by 3 in between 1 to 100 but not perfectly squared"?
+
+[新生成] "Enumerate 3 sets that have exactly two elements."?
+
+[新生成] How would you make two conditions in an exercise where the answer is to list multiple terms or objects?
+
+[新生成] List 10 vegetables that start with "S".?
+
+[新生成] How do I create these kind of lists in Chemistry.SE?
+
+[新生成] "What are the examples of [type] in this set?
+
+[新生成] e.g. design a game in which players identify animals with antlers but no spots.?
+
+[新生成] for example, “list all books in the library by author.”?
+
+[新生成] What's your favorite place in Washington D.C.?
+
+[新生成] List the names of five or more things you consider beautiful.?
+
+[新生成] “List all algorithms for machine learning.”, etc.?
+
+[新生成] https://meta.stackoverflow.com/questions/348503/create-a-timed-challenge-to-list-as-many-category-items-with-attribute-as-possi?
+
+[新生成] “List all properties for functions from $\mathbb{R}$ into $\mathbb{N}$. ”?
+
+[新生成] 1. Identify the key terms in your prompt and write them as nouns, verbs or adjectives. The most obvious is usually what you want to enumerate.?
+
+[新生成] How do I count (or enumerate) all the items in my collection that are red, and have an area greater than 5 square metres?
+
+[新生成] What are the top 10 most popular countries in terms of [population]?
+
+[新生成] For example, what is the least common denominator of 1/2 and 4/7?
+
+[新生成] "How many different ways are there to do something?
+
+[新生成] The student must define the target domain, construct a definition for each example in that set and state an exhaustive list of necessary properties.?
+
+[新生成] "Name that tune" for music, or "name the movie star"?
+
+[新生成] The main issue is whether it should be singular or plural. E.g., "List five items of clothing you like," and not “five likes."?
+
+[新生成] "List the following... : (1)...?
+
+[新生成] {param} an unsorted list of natural numbers, produce all possible pairs adding up to 10?
+
+[新生成] "List (at least) five [categories of words, phrases or numbers] that rhyme."?
+
+[新生成] “List the types of _________________ in finance?
+
+[新生成] [[list of items]], with an option to select [multiple|all].?
+
+[新生成] this has been used for creating lists of words/expressions in the same part-of-speech, synonyms and antonyms.?
+
+[新生成] "Give an example of two things you are good at." "List three animals in the park." "List four ways to get from school to your house."?
+
+[新生成] * Challenge will be added for all languages that have an active, approved challenge template. See ListChallenge Template.?
+
+[新生成] for example, list examples of physical evidence in the fields related to criminology.?
+
+[新生成] A list of rules for crafting such challenges (and what is their point).?
+
+[新生成] “list the main types of [concepts/words]?
+
+[新生成] “List the ways that [concept 1] and [concept 2] differ” or “list three uses for [tool, material etc].”?
+
+[新生成] 10 points per item, +1 bonus for each round you manage not to forget an item. You have to remember the full name or title in order to score.?
+
+[新生成] What are some specific uses for the internet?
+
+[新生成] The answer should be one or more sentences listing the specific questions, as well as their domains and types.?
+
+[新生成] "List all books published in 1980-1999 having the word 'programming' at least twice in its title."?
+
+[新生成] the best way I can think off would be something like (please tell me if this is too general or not what you are thinking of):?
+
+[新生成] What is the order of these 50 things?
+
+[新生成] e.g. generate "In what year was the Battle of Hastings?
+
+[新生成] The problem is that the item category can be quite broad (e.g. “things” or “foods”). Should I expect students to know how many food categories exist?
+
+[新生成] What are the top 5 things that you consider when shopping for clothes?
+
+[新生成] What if I added the twist of doing it in one hour or less?
+
+[新生成] e.g. "List the elements of order two in (S4)."?
+
+[新生成] For example, if you want to find 5 types of fruit that grow in Europe ask: What are five types of fruits growing in Europe?
+
+[新生成] {0} | What was the name of... | Who invented...?
+
+[新生成] For each item on the {param} set or list, what are the X that satisfy Y?
+
+[新生成] I want to write down all the things I can think of whose names start with “S” or contain “e”.?
+
+[新生成] 'List the... from A to B, each having features X and Y'.?
+
+[新生成] How many [property]s have you encountered in your lifetime?
+
+[新生成] using the ‘enumerate’ template?
+
+[新生成] e.g. name all the countries in Europe (or continents of North America, capital cities of Asia etc.)?
+
+[新生成] What’s in your closet?
+
+[新生成] "List all the (adjective) countries in Europe that..." or similar.?
+
+[新生成] *List (at least) 50+ instances of the item in question. These may be from games, TV shows/movies/books or otherwise.?
+
+[新生成] e.g. “List five things to take on an overseas trip” would be considered appropriate, but asking for the top three books of all time is not.?
+
+[新生成] "a list of the following"?
+
+[新生成] “List five examples of plants that grow well near the ocean.” or “Give me three foods from Latin America.”?
+
+[新生成] "You have discovered how to make lists. You can use your skill of making lists."?
+
+[新生成] "Identify the item that you think is not similar to each other"?
+
+[新生成] [name], which would satisfy the following conditions:?
+
+[新生成] in 3 minutes, how many states can you name that start with "A"?
+
+[新生成] A list of all real numbers x such that 0.5 ≤ (x^2) +1≤2 is {param} by…?
+
+[新生成] the program should search for all occurrences of a {param} word/phrase within the specified document(s) and report back what it found.?
+
+[新生成] Part III - using the same list twice?
+
+[新生成] 1) [List item(s)] or, more generally: “How do I build an SQL query that generates one row for each match across multiple tables?
+
+[新生成] * In the description include 3-5 sample lists?
+
+[新生成] e.g. "List all real numbers $x$ for which $\sin(x)=\frac{\sqrt{2}}{3}$".?
+
+[新生成] "For what pairs of integers does this sum equal one?
+
+[新生成] e.g. List all real numbers x, such that |x+2|<3.?
+
+[新生成] List three things of the same size and then ask what's different. (See: https://en.wikipedia.org/wiki/Semantic_familiarity )?
+
+[新生成] If you have a pet, what kind of food does it eat?
+
+[新生成] "list 7 ingredients for the traditional Thanksgiving dinner dish."?
+
+[新生成] “List five fruits that are red AND juicy.” The correct response would be: Apples, bananas, grapes.?
+
+[新生成] For example, "What is the highest mountain in Canada that isn't a volcano?
+
+[新生成] "List five plants that could be used as food sources"?
+
+[新生成] [[answer 1]], etc. as well as providing the option of using "Other" (to provide an answer not listed) and having it auto-create a new subfield.?
+
+[新生成] Is there an easy way to generate lists that require the specification of all the information necessary for each item?
+
+[新生成] For example, “List the 10 states of India in under one minute”?
+
+[新生成] "List all the elements with atomic number greater than 10 in group IIIA of periodic table"?
+
+[新生成] “[title]” in your name. “?
+
+[新生成] List the countries that have never been ruled by monarchs?
+
+[新生成] i.e. "List as many musical instruments that you can play the cello and piano on"?
+
+[新生成] You want to know how many elements there are in some set, and then enumerate them. E.g., How big is the space of sentences I can write on this topic?
+
+[新生成] (e.g., "List 4 types of chemical bonding." OR List four examples of an atom that has the electronic configuration for neon.")?
+
+[新生成] List the five best movies about people traveling across America.?
+
+[新生成] [name]. You must include 4 of the following (excluding current year).?
+
+[新生成] What is the longest string of characters that matches a {param} rule?
+
+[新生成] “List three or more items which are in the category of ____, and have ____”?
+
+[新生成] Example "List the different types of graphs used for continuous data" or "What are 4 methods that can be used when finding variance?
+
+[新生成] “List all the things in this room:”?
+
+[新生成] https://youtu.be/5H9cYfPp8LQ. I'll do [list 3 challenges from your category here].?
+
+[新生成] "What are some of the popular food for kids that contains Vitamin C?
+
+[新生成] * List at least five pieces of furniture in the bedroom.?
+
+[新生成] For example, List the different types of plants that grow in Africa?
+
+[新生成] what are all the types of animal that can fly?
+
+[新生成] (For example, in mathematics: “How many integers between 10 and 20 have the remainder 2 when divided by 4?
+
+[新生成] What are five items of food that can be eaten while camping and hiking?
+
+[新生成] For example, the list of valid “letters” could be A-E plus X-Y and you must have 5 in each word/phrase.?
+
+[新生成] "List the longest rivers in California (Name & Length)", for instance, or something else entirely.?
+
+[新生成] a list with $n$ elements in it, each of which has an associated boolean value?
+
+[新生成] [description]. I am looking for the name of this kind of problem, and if you have any good links to related problems.?
+
+[新生成] The following list of people, events or things is related to the study topic from this time.?
+
+[新生成] no more “Name five animals that have eight legs”.  Here are some examples:?
+
+[新生成] e.g. “list the types of functions that can be integrated”?
+
+[新生成] contains all of X, starts with Y and ends in Z; etc. The solver can add or remove constraints from the list as they want.?
+
+[新生成] List, Rank and Sort. Use to create an exercise using a single table.?
+
+[新生成] for example, 'list five foods that are healthy and tasty'.?
+
+[新生成] How to specify what you're looking for?
+
+[新生成] what makes the primary and secondary features different, why does someone want these item, how can people be helped by using this?
+
+[新生成] What are some common errors in algebraic logic?
+
+[新生成] e.g. "What was the title of the ruler in medieval England?
+
+[新生成] multiple lists, no grouping?
+
+[新生成] “In our classroom, what are all the colors you do not like?
+
+[新生成] If your list includes an item that is not on the same list as you, then you win. (2019)?
+
+[新生成] "List some common birds that have white and black on their wings"?
+
+[新生成] List the countries from Africa without vowels.?
+
+[新生成] e.g. list of battles fought during the Hundred Years War or major buildings erected in ancient Rome.?
+
+[新生成] the number of vowels, syllables and consonants. Let me know what you think.?
+
+[新生成] example "list examples of foods eaten without utensils".?
+
+[新生成] (eg. define some examples for the following: “list different types of social interaction”, etc.)?
+
+[新生成] "What's the fewest items you can find to satisfy these three rules?
+
+[新生成] (a) How many positive integers less than 100 have no common factors except for $\displaystyle \pm$1?
+
+[新生成] "List all the mammals found in Africa"?
+
+[新生成] e.g., “In three minutes, name as many birds of prey that can be found in the UK”.?
+
+[新生成] for example, 'Enumerate the three kinds of mammals that start with "K" and live in Africa'.?
+
+[新生成] What is the main issue with this kind?
+
+[新生成] the list is defined explicitly.?
+
+[新生成] Example, "List ten foods that begin with the letter A." This is best for simple categories like animals and countries.?
+
+[新生成] A way to specify required conditions for a listing.?
+
+[新生成] "What are the 5 types of plants in Mexico?
+
+[新生成] "List all different types of plants that are native in South America."?
+
+[新生成] "List the plants with more than four petals AND orange stamen."?
+
+[新生成] using the same format as "List X of Y" style questions?
+
+[新生成] e.g., 'List three properties that characterize the atmosphere's composition at altitude below 10,000 meters' (3; atmosphere)?
+
+[新生成] https://www.theodysseyonline.com/how-to-listen-the-powerful-ability?
+
+[新生成] An example is a member of the domain. Enumeration asks for listing each such object with no repeats or omissions.?
+
+[新生成] name, picture, pronunciation and meaning. For example, let’s say the category is adjectives that describe people.?
+
+[新生成] [[insert item]], {param} the historical events [[list of at least 3 historical event titles]].?
+
+[新生成] for example, "list 30 mammals with the longest horns". Once they enter their submission, show them all other users' submissions.?
+
+[新生成] How many integers between 100 and 999 contain at least one digit that is not an even integer?
+
+[新生成] “What are five animals you could find on the African Savannah that have black and white stripes?
+
+[新生成] What are the different kinds of dogs?
+
+[新生成] 's name, which was also the capital of <country>. (eg. "During the Middle Ages, what did kings call their palaces in Castile and León?
+
+[新生成] the items are to be enumerated in such a way that each subsequent item must have some attribute not present on any previous one?
+
+[新生成] (e.g. “List five vegetables that are crunchy.”)?
+
+[新生成] "List the countries in Asia, North America or South America that begin with C."?
+
+[新生成] example "name of 100 countries starting with B"?
+
+[新生成] How Many Xyz Can You Name in 60 Seconds?
+
+[新生成] The idea is something like: "List five animals that live mainly on land." For example:?
+
+[新生成] List five fruits that are high in fiber.?
+
+[新生成] For example, List and explain five different types of animals that live above water.?
+
+[新生成] What are the main types of neural networks?
+
+[新生成] "List 3 types of linear equations" or something.?
+
+[新生成] * Minimum number of letters in common with the source text. (How many, if any, should match?
+
+[新生成] "Name all the flowers with 12 petals"?
+
+[新生成] “List all countries that start their name with the letter ‘R’ and have more than 2,000 miles of coastline”?
+
+[新生成] 100 points for completing the word or phrase, +5 additional point per letter in excess of words/letters listed.?
+
+[新生成] For example, "Name 10 kinds of vehicles", or "List five elements that are gases at room temperature".?
+
+[新生成] What are the types of food at a wedding reception?
+
+[新生成] 1) Question: List five countries in Asia with the most rapidly growing economies. 2) Answer choices to be added by me.?
+
+[新生成] “List five examples of mammals. Include their common name, scientific name, and habitat.”?
+
+[新生成] The question may begin, "List the...", and enumerate three or more things.?
+
+[新生成] Find the best possible way of solving that problem. What would you change about this process?
+
+[新生成] "List 5 examples of the concept 'x' used by businesses. Explain how you are sure these count as examples.".?
+
+[新生成] e.g. "List the properties of addition" or "list the different ways we can think about length"?
+
+[新生成] “What did someone in the year [year choose from below drop-down list], living on this map, do with these items?
+
+[新生成] E.g. "How many different triangles can you form by constructing line segments between the vertices of a {param} quadrilateral?
+
+[新生成] e.g. 'enumerate all the factors in 30' or 'list three properties possessed by both acids and bases'.?
+
+[新生成] 'Select the following from List X and Y:'?
+
+[新生成] for example, listing countries ending in 'land'.?
+
+[新生成] "List the 10 most important factors that led to the development of quantum theory."?
+
+[新生成] How many instances of each type in domain A can you find that also occur within another, independent set?
+
+[新生成] "List the states in which: [A1], [A2],... and [B1], [B2]."?
+
+[新生成] For example, ask students to list the U.S. states or Canadian provinces bordering an ocean.?
+
+[新生成] what are the implications for a model in which X is considered to be one example?
+
+[新生成] Write down each item's name in the answer box.?
+
+[新生成] (1) contains any of the listed letters, but not all; and (2) has one or more vowels in each word.?
+
+[新生成] How can we create questions that ask students to come up with lists (with no right answer) and where the topic is not math-related?
+
+[新生成] e.g. List 10 US presidents in less than 2 minutes.?
+
+[新生成] “Find 50 things that are blue, but not red.” Or the reverse: "Name all of your friends who you see often."?
+
+[新生成] For example, List five things that are blue.?
+
+[新生成] example: "List five kinds of fruit that are red".?
+
+[新生成] how is it taught or what to write in textbook?
+
+[新生成] “List all prime numbers between 1 to 15 that are greater than five.”?
+
+[新生成] (e.g. name different types of triangles, or all the functions that are continuous at x=0)?
+
+[新生成] e.g. name an animal beginning with the letter A, B or C?
+
+[新生成] 3 minutes for each item listed.?
+
+[新生成] for example, all the names from {param} period of history.?
+
+[新生成] e.g., ‘List five vegetables that are green’.?
+
+[新生成] each item is scored depending on how many people guess it correctly.?
+
+[新生成] Example: A fruit that is red List at least five common plants used as herbs.?
+
+[新生成] "all numbers in list are divisible by 4".?
+
+[新生成] i.e., "List five kinds of birds that are found only in Africa."?
+
+[新生成] (1 point) List the first 10 positive numbers less than or equal to 20 whose sum of digits is an odd number.?
+
+[新生成] A survey that asks “What are the different types of cheese?
+
+[新生成] "List five examples of animals that eat mainly plants." More…?
+
+[新生成] What is the least number of items that you must buy so as to satisfy all rules?
+
+[新生成] e.g. "List five fruits that are red", or “List five countries whose capital is London”. Then let the group of people write their lists down.?
+
+[新生成] "[what you want to find]".?
+
+[新生成] * In what order you want the player to type words?
+
+[新生成] either one of the {param} list or all of them in any order.?
+
+[新生成] “What are five factors that increase the risk for developing diabetes?
+
+[新生成] "What things are black or blue?
+
+[新生成] "List as many fruits and vegetables that start with the letter M" or "Name 3 sports which have been in Olympic competitions".?
+
+[新生成] "List as many breeds of cats as you can in 3 minutes!" For now this is a simple array, I'm working on adding an API to replace it.?
+
+[新生成] (E.g., What kinds of foods can be found for people that have difficulty swallowing?
+
+[新生成] "List five vegetables that start with the letter 'c'"?
+
+[新生成] “list all the countries with an area less than 2 million square kilometers…”.?
+
+[新生成] "List 5 types of forces" (Mechanics) "list all types of reaction that are used with an electric current"?
+
+[新生成] for example, "List five different vegetables that contain protein"?
+
+[新生成] How do I find the list of movies released in 2019 which have also been listed on IMDB's top-50?
+
+[新生成] What are the four most popular beverages in the world?
+
+[新生成] What are five pieces of literature that were influential for the development of feminist theory?
+
+[新生成] e.g. 'list four different ways to skin an animal'; 'name three famous authors who are women'.?
+
+[新生成] "List all positive integers less than 200 that are divisible by neither two nor three."?
+
+[新生成] at least one item must meet condition A, and each of the listed items meets conditions C or D. In other words:?
+
+[新生成] "Make me a list of books that are not non-fiction" (books: primary, fiction/nonfiction: secondary)?
+
+[新生成] Listing Items Meeting Two Conditions?
+
+[新生成] "List the positive integers $a < 100$ such that $\gcd(a,10)=1$" would lead to responses like $$\{11,21,31,\cdots,91 \}$$ in this example.?
+
+[新生成] the answer to that question would have value $x$. Note that “what” is a useful word for beginning an example-enumeration task.?
+
+[新生成] e.g. "What are five birds that can fly?
+
+[新生成] What was the role of [thing1][other things?
+
+[新生成] What are the three kinds of triangles?
+
+[新生成] For instance, "list five things that can be used for food", or "five places to find cheese." The result is then an ordered list of the results.?
+
+[新生成] what are the five highest mountains in Africa?
+
+[新生成] Listing Items Meeting Both Conditions?
+
+[新生成] for example, 'List at least five mammals', or "What are some insects that fly?
+
+[新生成] {{ number of items in list }}?
+
+[新生成] e.g. “List at least five insects that have more than six legs.”?
+
+[新生成] “What are the main principles of writing for children?
+
+[新生成] [optional description]. The item name will be the same as that of this task. Item generation follows historical accuracy, style and tone guidelines.?
+
+[新生成] For example, which of the following lists contain only even numbers?
+
+[新生成] in 60 seconds, name all animals of the category Mammal.?
+
+[新生成] a. What are some ways to determine whether an angle is obtuse or acute?
+
+[新生成] "List the states with temperatures below 20 degrees Fahrenheit, but not above -10" OR?
+
+[新生成] eg. "List five different types of fruit, each having more than one variety"?
+
+[新生成] (A) is in the list of X, Y, Z; or (B) does not have value of C. How to use conditionals in the query?
+
+[新生成] Example: List ten fruits which start with the letter ‘A’.?
+
+[新生成] The list in the below is not comprehensive. There may be other features that have not been included, but can you include all these?
+
+[新生成] <h1> {{name}} </h1><p>You have chosen to ask the following multiple choice question: "During which historical time period did _______?
+
+[新生成] "Name the elements of group 7A having an electron configuration ending in ns2np5."?
+
+[新生成] “List five types of [something].”?
+
+[新生成] minimum number of letters, max repetitions of letters or groups, etc. The result should list all the possible variations for each submitted text.?
+
+[新生成] What is an example from [domain]?
+
+[新生成] What are the integers 0 < x <= y and z > 1 satisfying xyz = (x+y+z)?
+
+[新生成] "List 3 fruits that can be used as dessert" or?
+
+[新生成] What are five fruits that are red?
+
+[新生成] (Example: “What are some ways that we can improve the organization of our lab if people work on two different projects at one time?
+
+[新生成] What is something which can be in one category but not the other?
+
+[新生成] “What is the total number of different ways in which five different books can be chosen, at least one being about geography?
+
+[新生成] 1. Identify the question in this form.?
+
+[新生成] "List the capitals of European countries in 60 seconds!" and use answers from this category.?
+
+[新生成] 'If you wanted to buy an item of clothing, what would be the first things that come into your mind?
+
+[新生成] the longest word containing all consonants, and one where you count how many times each vowel appears (in alphabetical order).?
+
+[新生成] (i.e., “list all the…” or “name _____ that…”)?
+
+[新生成] "List 5 kinds of fruit" or "Name five animals that live in the water"?
+
+[新生成] what other features should be incorporated?
+
+[新生成] This allows me create questions like "What are the different types of insects?
+
+[新生成] I want to say something like "List five animals that are furry."?
+
+[新生成] What is your top five favourite food, drink and musical genre?
+
+[新生成] “List 12 fruits, each one must start in lowercase,” or “List 10 animals that end in consonants.” You can add your own categories and attributes.?
+
+[新生成] 'name of the item' and click 'Continue', enter next one... etc until time is up.?
+
+[新生成] What are some real life uses of the pigeonhole principle?
+
+[新生成] List all countries that begin with G in less than 5 minutes. This item includes the solution set.?
+
+[新生成] The solution is based on the method outlined in the text of Listing 15.1. This method combines the SQL queries?
+
+[新生成] e.g. “List five types of flowers that are blue”.?
+
+[新生成] "What are some examples of [type of food] that have more than five grams of fat per serving?
+
+[新生成] the case of "a big list" in software engineering?
+
+[新生成] “List all the integers between x and y that have no divisors other than 1 or themselves.”?
+
+[新生成] "list five things you'd want on your desert island"?
+
+[新生成] for example, name the animals in under 60 seconds.?
+
+[新生成] e.g. list four types of fruit in season between January and May.?
+
+[新生成] (a) 4 positive integers between 20 and 100 that are divisible by 7. What does the problem ask?
+
+[新生成] for example, formulating the following questions as a list task: how many colours are there on an English traffic light?
+
+[新生成] "List 2 types of energy that can be stored" →?
+
+[新生成] #1 – List 3 types of vegetables from the Produce Department at your local grocery store and explain why you would choose each one.?
+
+[新生成] “List all the different types of plant pollination mechanisms.” Here is where we define what kind of response and answer set our AI needs.?
+
+[新生成] In addition, they need to be able to identify the two conditions in your sentence.?
+
+[新生成] "list at least five things in the world that are not _____"?
+
+[新生成] For instance, can you name the most popular sports in each country of Europe?
+
+[新生成] Examples (in the form “An example is…”) are listed in columns, with each new column indicating another such category.?
+
+[新生成] "list as many [adjectives] as you can think" (example usage)?
+
+[新生成] e.g. in 90 seconds, name five cities that begin with the letter A.?
+
+[新生成] "List all members who have both completed the required courses and earned an A grade in their research project."?
+
+[新生成] "Give the names and dates for ten wars fought by England in recent centuries."?
+
+[新生成] for example “list 20 countries that start with ‘A’” or “name 5 species of birds whose names include the word ‘blue'”.?
+
+[新生成] How many different arrangements of books are possible if they have to be placed in their shelves with 1,2 and 3 items per shelf?
+
+[新生成] Challenge 1 - Name the Top 10 highest rated episodes in Seinfeld; Challenge 2 - List all films directed by Steven Spielberg.?
+
+[新生成] e.g., all the items in one category, or only items starting with N. The goal is to help clarify questions that involve an unclear list.?
+
+[新生成] “List the five types of [domain]” (e.g. “List the six branches of chemistry”; List all four seasons; etc.)?
+
+[新生成] “What is the most common type of insect on this rock?
+
+[新生成] {eq} \\ \text{For what real numbers } x\text{ is there an integer k such that the product }(k^2-x)(x-1)= 7?
+
+[新生成] "list a couple ways I can use __ in art, for instance".?
+
+[新生成] using the example below, what kind of questions can you ask in this way?
+
+[新生成] e.g. "List all objects in the Milky Way which have more than 3 stars."?
+
+[新生成] Use AND to list values meeting BOTH of the conditions?
+
+[新生成] the standard format for lists that are enumerated. Also generates "bulleted" questions, where responses are unordered.?
+
+[新生成] e.g. “list the 10 first positive integers x that yield x^2-x-4=0 (mod 101)”?
+
+[新生成] “How many different ways are there to select three cards, without replacement?
+
+[新生成] (e.g. "List three different types of flowers that have petals.")?
+
+[新生成] Examples include: “List all types of triangles”, or List 3 examples of quadrilaterals, etc.?
+
+[新生成] List as Many Vegetables As You Can in 60 Seconds.?
+
+[新生成] e.g. "List two examples of nouns that are also adjectives"?
+
+[新生成] What is the number of different ways to combine four types (four colors) and three values into six pairs?
+
+[新生成] "List five fruits that are green and juicy."?
+
+[新生成] "List as Many Things As Possible" (aka TAMP)?
+
+[新生成] "For each item, if it is the case that [...], then if it is also the case that […], please list its [...]"?
+
+[新生成] "List all the species of plant found in California where X occurs"?
+
+[新生成] “List the states with at least 5,000 square miles of land area AND located east of the Mississippi river.”?
+
+[新生成] http://codegolf.stackexchange.com/questions/1076/create-a-timed-challenge-to-list-as-many-category-items-with-attribute-as-p?
+
+[新生成] (e.g. “a word or phrase with 3 vowels” or “a 5-letter palindromic word”). Create and populate the list of such phrases.?
+
+[新生成] Example: “List as many Marvel movies as you can in two minutes.”?
+
+[新生成] Example. Produce a sentence or two stating that each item listed has the characteristic provided.?
+
+[新生成] "What are the names of five large cities in California?
+
+[新生成] e.g. how many integers from 0 to n, inclusive are divisible by neither of two {param} primes?
+
+[新生成] A) What type of things will students have seen?
+
+[新生成] for example, "List five ways the Declaration of Independence expresses what Jefferson called 'inalienable' rights.?
+
+[新生成] What to do with the answer?
+
+[新生成] List five things that are fun?
+
+[新生成] (i.e. "What are three ways in which a human cell can obtain energy?
+
+[新生成] "List the common characteristics of all mammals. (Select all that apply.)"?
+
+[新生成] “List 10 birds from Australia” or, if you prefer the single-word questions such as “Name ten countries.”?
+
+[新生成] e.g., "List five things that are round?
+
+[新生成] I want to ask users for their age in years. What’s the best way of doing this, without making it too complicated?
+
+[新生成] What is the maximum number of items that you can choose, such that each item satisfies at least one rule?
+
+[新生成] for example, "enumerate three causes and one effect of air pollution on animal ecosystems", or enumerate at least ten different kinds of insects."?
+
+[新生成] How many examples can you find that do not fit this pattern?
+
+[新生成] “What are ten different ways to get the 10th digit in an Excel spreadsheet?
+
+[新生成] The goal is for people to learn the names of different things.?
+
+[新生成] example, “design an app that will help the user identify alligator attacks in Florida”?
+
+[新生成] How many are the possible ways to paint this house?
+
+[新生成] e.g. "as many fruit names starting 'A' (apple, apricot...) as you can in 30 seconds."?
+
+[新生成] e.g. “List five animals that are fast”?
+
+[新生成] “a word, phrase or set of letters which contains all the letters in an alphabetically ordered list.”?
+
+[新生成] [description]. Use the [object type]'s API, or find other lists.?
+
+[新生成] (choose) | [list of historical eras|periods/epochs] – in the context of {param} historical event (e.g. WW2, the French Revolution)?
+
+[新生成] Listing All Positive Integers Between 1,000 And The Product Of Two Perfect Cubes.?
+
+[新生成] "Which of the following lists all of the things that are green AND rectangular?
+
+[新生成] "Name five cities in the United States where average July temperatures exceed 85 degrees Fahrenheit AND annual rainfall exceeds 20 inches."?
+
+[新生成] 2 years ago, I would have asked: “Can we develop some rules by which I can ask questions about listing stuff?
+
+[新生成] {q} (optional) - A list of item names. Each will be randomly chosen for the final generated question.?
+
+[新生成] "Name all of the objects/numbers/names/etc in category C where attribute 1 is less than x AND attribute 2 is greater or equal to y."?
+
+[新生成] example "What is the only integer that can be expressed as 2 to any power plus one?
+
+[新生成] what’s an efficient method for doing this?
+
+[新生成] Given an object or set of objects, what is the next one in sequence?
+
+[新生成] If we take the first and last words in the dictionary, what is their sum?
+
+[新生成] “List five different types of bread, all of which contain yeast.”?
+
+[新生成] 1. For what values or domains can the inequality $a-b\leq x<3b-7$ be satisfied?
+
+[新生成] "List all pairs $(a,b)$ such that $a$ is less than $b$", or even better, "What are the values for which this expression gives true?
+
+[新生成] e.g. Create a timed challenge for listing the number of cities in each country?
+
+[新生成] How many distinct ways are there to move one knight on an 8 × 8 chessboard without repeating the same square?
+
+[新生成] For example, "List five types of fruit that are red." and "[Type_of_object]'s that have the word 'orange' in them".?
+
+[新生成] 1. Start with "List" or "Describe the following:".?
+
+[新生成] [[question name]] in the [[quiz title]]?
+
+[新生成] (e.g. What are examples of the law of diminishing marginal utility used in economics?
+
+[新生成] e.g., "Which three of the following words, if removed from the list below, would still leave us with all letters in the alphabet?
+
+[新生成] e.g. "List the different types of vectors with examples in math."?
+
+[新生成] I can't think of the right name for this kind of question?
+
+[新生成] For instance, what are five examples of theorems?
+
+[新生成] e.g. “List five vegetables that are green”?
+
+[新生成] 'list style', in the sense that they are intended to be complete, and not require any further explanation.?
+
+[新生成] "what is an example of something that would be considered [adjective]"?
+
+[新生成] for example "list three types of fruit that are red".?
+
+[新生成] in 1 minute, how many animals that start with A can you think of?
+
+[新生成] For example, "list five flowers with petals".?
+
+[新生成] Listing Items Meeting Both Conditions?
+
+[新生成] "List 10 different animals that start with the letter 'a' in under one minute!"?
+
+[新生成] "I'm working with users who have (1) an Apple device, AND whose password is not expiring in six months." For this list of users:?
+
+[新生成] The winner is the person who lists them all first?
+
+[新生成] "List all elements in the following set"?
+
+[新生成] “List all the members and non-members of this set, respectively.” The list must include:?
+
+[新生成] for example, "list 5 fruit with the letter 'b' in them".?
+
+[新生成] e.g. "list as many fruits as you can think of that begin with the letter 'p'", or, more specifically: "can you name three types of peach"?
+
+[新生成] for example, identify flowers that are not red.?
+
+[新生成] https://www.reddit.com/r/ProgrammingLanguagePorn/comments/wv9rj7/create_a_timed_challenge_to_list_as_many_math/?
+
+[新生成] e.g. “List five fruit that are yellow.” The answer is supposed to be typed using text input.?
+
+[新生成] “List the different types of [something] that can be found in this discipline?
+
+[新生成] What are the three main types of computer memory?
+
+[新生成] e.g., "List five fast food chains that sell hamburgers."?
+
+[新生成] "List and describe five or more examples of types of plants that live on land. You should write two or three sentences about each type."?
+
+[新生成] What is the name for an application that takes an existing program's bytecode, and replaces it with another bytecoded version written by someone else?
+
+[新生成] "List all the states in which slavery was legal from 1789 to 1850."?
+
+[新生成] (1) (A) Determine how many ways there are to choose three objects out of ten, six blue balls and four red. (Arrow: 10C3 = 120)?
+
+[新生成] “List the five most valuable minerals mined in Africa.”?
+
+[新生成] “Find the three odd multiples of 5 between $-30$ and $35$.”, NOT just “List all odd multiples of five.”?
+
+[新生成] “List three plants with thick leaves AND that are poisonous.”?
+
+[新生成] What are some interesting examples of this?
+
+[新生成] "All of the following are..." | "List all...that..."?
+
+[新生成] e.g. "List the animals that are brown and have feathers."?
+
+[新生成] [[list item types]], e.g., 'A brief history of England' or 'An American Revolution timeline'.?
+
+[新生成] the first person that makes it wins, and any other player loses instantly. This is in addition to the regular rules for wordlist challenges.?
+
+[新生成] For example, all the names of countries on Earth which contain more than three characters.?
+
+[新生成] Example: "Name as many vegetables that are red."?
+
+[新生成] How Many Countries Have Capitals Ending in "A"?
+
+[新生成] List [x], [y], and the like for at least five things that are different than me?
+
+[新生成] "Which" or, in more formal and scholarly contexts often the word which is avoided; “What” instead?
+
+[新生成] How to make it more "general" than "I am looking for lists in my database where..."?
+
+[新生成] Listing questions in R?
+
+[新生成] e.g., "List five fruits that start with the letter 'A'."?
+
+[新生成] https://www.notion.so/create-timed-challenge-to-list-as-many-categories-items-with-attributes-as-possible-ea71d7c6b1be4f8ab0ea5e3ae51ddfd9?
+
+[新生成] What is the answer if we replace all occurrences of “and” by logical “AND”, as it occurs in propositional logic. How to solve these types…?
+
+[新生成] "What are some major problems facing society today?
+
+[新生成] {2+4, 3, 0 +1} For example. If asked to formulate the following questions: How many ways are there in counting?
+
+[新生成] each one gets you 10 points, but there's no bonus for getting the longest list?
+
+[新生成] A. How many odd numbers can be written with three digits?
+
+[新生成] match all items in wordlist A and none in B.?
+
+[新生成] List the first 10 countries you can think of. Make sure that they are not part of an antecedent country such as Russia and Ukraine.?
+
+[新生成] e.g., "List all countries in Asia with populations under 10 million."?
+
+[新生成] For example, "List five vegetables that are red" or "Name three birds that can fly".?
+
+[新生成] either of the conditions is met by two different values, so there are four possibilities. You will need to list these in your answer.?
+
+[新生成] "the" "[name of historical person]" to be written in [language].?
+
+[新生成] "What are some fruits that grow on trees?
+
+[新生成] e.g., "list five non-alcoholic drinks".?
+
+[新生成] https://www.reddit.com/r/AskReddit/comments/bm0h6l/create_a_timed_challenge_to_list_as_many_with/?
+
+[新生成] What kinds of activities can be done in either the cold or in hot weather?
+
+[新生成] length (of text string) less than, greater than or equal too; any number of letters at beginning/middle/end. The list would not need to be very long.?
+
+[新生成] e.g., "list all the [number] points about which you are ambivalent"?
+
+[新生成] for instance, "List five types of fruits". These are called request questions.?
+
+[新生成] What are the 3 states that have both red and blue on their state flags?
+
+[新生成] e.g. "how many different 4-digit integers can be formed using only the digits 2,3 and 5?
+
+[新生成] "What is the name of country that has been around for all or most of {period}?
+
+[新生成] “List all the most popular food items from each restaurant”?
+
+[新生成] for instance, "List 3 foods that are green".?
+
+[新生成] (e.g. name 2 elements with an atomic number greater than uranium; give examples of two enzymes used by humans).?
+
+[新生成] What kind of candy is hard, sweet, round-shaped.?
+
+[新生成] "List all the cities in New Zealand where it snows."?
+
+[新生成] "List ten countries with the most inhabitants." Use the correct structure for your category.?
+
+[新生成] You have to list out all the students in the class whose name starts with ‘R’ or who scored above 95 points in Math?
+
+[新生成] what do we put in the colon?
+
+[新生成] 2) Example: A good example is the concept “set” and type “property”. We might ask students (1st year undergrads), "List properties that sets have."?
+
+[新生成] List at least 100 fruits starting with A or F?
+
+[新生成] "List five animals that are furry and live on land."?
+
+[新生成] e.g. enumerate 3 distinct factors in the number 27, or give an example where A is not equivalent to B.?
+
+[新生成] What are five flowers that do not need full sun?
+
+[新生成] e.g. "List as many fruits you can think of that are not red".?
+
+[新生成] “List some fruits that are red”?
+
+[新生成] "list five kinds of fruit" or "what are the best vegetables to have on hand?
+
+[新生成] Ask about "list" by clicking on the icon.?
+
+[新生成] and then let users vote on the most surprising choices. e.g., "List five things that can be used as fuel".?
+
+[新生成] "list all real numbers satisfying..." [closed]?
+
+[新生成] e.g. List five examples of fruits that are orange.?
+
+[新生成] for example, 'Given: A, B and C. Ruleset (A is < something >). What's the rule?
+
+[新生成] what are five ways to combine three different colors?
+
+[新生成] Example: "List all possible names for the concept 'a number divisible by 10' in mathematics." This is an example taken from another answer.?
+
+[新生成] "What is the first number that can be expressed as the sum of three consecutive prime numbers?
+
+[新生成] "List types of machine learning techniques"?
+
+[新生成] "Find the three numbers in this list that are all even, and their sum is at least 9"?
+
+[新生成] What are the three longest rivers in South America?
+
+[新生成] For example, provide a list of words and ask the user enter each word with some specific conditions.?
+
+[新生成] Example: List all the triangles inscribed on circles, excluding right triangles and isosceles trangles.?
+
+[新生成] {{name}} for the History Curriculum in [state]?
+
+[新生成] "List all the different types of animals in Africa" or "list the countries that border on the Pacific Ocean."?
+
+[新生成] What are all the prime numbers that end with three?
+
+[新生成] I want to do something like "What is an example of one type of rock from each class?
+
+[新生成] You can change 'list' for anything that means the same (e.g. describe, make out, specify).?
+
+[新生成] "List as many animals that you can think of which have more than two legs."?
+
+[新生成] List the planets in our solar system.?
+
+[新生成] a simple, well-defined list?
+
+[新生成] What is the largest integer n such that there are exactly 5,600 prime numbers between -n and +n?
+
+[新生成] "What kinds of foods does one find on an American Thanksgiving table?
+
+[新生成] for instance, "enumerate six types of car" would require 6 different cars to be named.?
+
+[新生成] e.g. “name 3 types of fruit that are round” or “give 2 examples of mammals”?
+
+[新生成] “List the countries in which the following statement is true.” The answer choices would be all possible combinations, like this (from GMATprep):?
+
+[新生成] For example, "How many countries in Europe are members of the EU?
+
+[新生成] How many is the minimum number?
+
+[新生成] e.g. "How many positive integers less than 1000 have exactly five factors (including 1 and the number itself)?
+
+[新生成] Example: 1. What were the names of two important European explorers, who came to North America during the Age of Exploration?
+
+[新生成] How to make the questions clear when listing things that must be enumerated?
+
+[新生成] “List all the US Presidents who were also born in the South.” or “List ten things that are rounder than a circle.”?
+
+[新生成] "List two types of triangles with interior angles equal?
+
+[新生成] "How many distinct arrangements of AABCBC can be made?
+
+[新生成] What is the name of an algorithm for doing this?
+
+[新生成] "How many items can you think of that are [descriptor]?
+
+[新生成] (e.g. "List five insects that fly.") Then, ask students what they came up with and display these responses on the whiteboard.?
+
+[新生成] eg. "List five musical instruments that are made from wood". A few examples: List five fruits whose name ends in -berry.?
+
+[新生成] "list types of social media". Also, try asking questions like: what is the most popular type of X?
+
+[新生成] “list of all 10-digit numbers that have exactly two prime factors.”?
+
+[新生成] What are the three largest cities in Africa with populations of over 5 million?
+
+[新生成] "List five insects"?
+
+[新生成] {[list of item types]} (if empty, default to '[country]'s countries') from the provided historical data.?
+
+[新生成] length, number of vowels or consonants, first and/or last characters etc. Use the built-in word list (or one from an outside source) as data.?
+
+[新生成] e.g., “Name all the animals in this room.”, or: “Give me one number between 1-10 divided by three.”?
+
+[新生成] # 1 Create a challenge that asks to compile words/phrases matching… More...?
+
+[新生成] "List five examples of mammals. Include three herbivores and two carnivores."?
+
+[新生成] "List all countries starting with 'C' who won the 2022 World Cup."?
+
+[新生成] List five fruits that are yellow.?
+
+[新生成] "List five examples of physical changes" will be turned into: “ List 5 examples for Physical change."?
+
+[新生成] Is there an accepted name for this kind of puzzles?
+
+[新生成] e.g. 5 minutes to name the most European countries or US states, starting in New England and moving westward.?
+
+[新生成] “List all the people you know whose names start with J or K”?
+
+[新生成] "List an example of data structure in biology"?
+
+[新生成] [Example: 'List five animals you know that are mammals'].?
+
+[新生成] and then answer it. For example, "I have no idea what kind of things you should put into a sandwich if the bread is cheese." (1 per person)?
+
+[新生成] *in one minute* or whatever, in seconds.?
+
+[新生成] For example, the category could be animals and attribute color. List all different colored birds in one minute.?
+
+[新生成] (n: number; type, domain) => "How many {type} are there in the set called {domain}?
+
+[新生成] A question for which the solution is an ordered list, as in “List three reasons why you do not like broccoli.”?
+
+[新生成] “list five vegetables that are usually green”. Do not provide any constraints on the response set.?
+
+[新生成] [name of item]. Example: Generate a history-based enumeration question about the Tudors in Britain, with dates from 1509 to 1547 AD.?
+
+[新生成] What is the first number that results in an infinite sequence when dividing by its digits, but not every digit divides into it?
+
+[新生成] For example, "list five items in the kitchen that are yellow."?
+
+[新生成] “What are the four main methods for detecting plagiarism?
+
+[新生成] "Given a polynomial p(x) in one variable, how many roots does it have?
+
+[新生成] “What is the lowest possible sum of consecutive numbers that can be split into n groups, where each group adds up to k?
+
+[新生成] name of the first, then second and so on in alphabetical order.?
+
+[新生成] Example: How many different arrangements can be made by selecting three people from the twelve members in one dance group?
+
+[新生成] for instance, how many integers in 1 to $1000$ are divisible by either $5$ or $7$, but not both?
+
+[新生成] e.g. "list mathematical examples" or, more specifically, "give some interesting cases of groups arising from algebraic number theory"?
+
+[新生成] what do they have in common?
+
+[新生成] "What are the types of foods you would like to avoid, when dining out?
+
+[新生成] http://www.opentable.com/challenge/food-listing?
+
+[新生成] (optional) The item or category is described. Example: "List five common types of trees", would generate the following questions.?
+
+[新生成] What is an example of one or more __________ that was/were produced in the _____?
+
+[新生成] How do you ask for examples of something like 'fruit', which is a category but doesn't have an exhaustive listing?
+
+[新生成] "Name 3 examples of animals with furs." If an example does not meet the conditions, it should be omitted from the list.?
+
+[新生成] "List the following mathematical objects:?
+
+[新生成] Formulating questions for this type is the most straightforward. A researcher could ask, "How many times per day do your children watch television?
+
+[新生成] for example, “list fruits you might find at the supermarket” or "list vegetables that grow underground."?
+
+[新生成] "List all items that are 1) red or 2) orange."?
+
+[新生成] “List as many mammals that have whiskers in 30 seconds.”?
+
+[新生成] What's some good examples of movies that use science fiction elements?
+
+[新生成] What is your favourite thing about London?
+
+[新生成] "What are the main types of software licensing?
+
+[新生成] 'List all vegetables that start with the letter ‘p’.'?
+
+[新生成] the [name of object in plural form], which was used by [person or group]?
+
+[新生成] "List five types of vegetables that grow above ground".?
+
+[新生成] {{subst:cite game |link=https://en.wikipedia.org/wiki/Wikipedia:TfD/Lists}} Example of template output?
+
+[新生成] A List of Countries With Borders?
+
+[新生成] https://www.chromestory.com/experiences/gaming/200-word-challenge-list-20-of-your-favorite-comics-by-letter/?
+
+[新生成] List all the elements of order 2 in $\mathbb{Z}_{20}$. Let $n \in \mathbb{N}$ with $(m, n) =1$ (that is: "gcd" equals one). Write down?
+
+[新生成] * You can only answer the same item if you have listed it before. (If this happens, do not use it again)?
+
+[新生成] “List the six states that are contiguous to Missouri,” not simply, “What is Missouri’s state motto?
+
+[新生成] (ex. “Name the top 10 best selling albums of all time”)?
+
+[新生成] "List all the animals in Asia that live above 5000 metres"?
+
+[新生成] either one is enough to include something on the list, but you want only those things which meet BOTH of them.?
+
+[新生成] “What’s the best way of doing this?
+
+[新生成] number, type and domain should all be clearly stated. Use the word 'at least' if that's what is meant.?
+
+[新生成] "List 3 types of plants that use photosynthesis"?
+
+[新生成] A list of items. The number of questions in the test is equal to 5% (rounded down) or one, whichever is larger.?
+
+[新生成] "List all the plants living in areas with annual rainfall of 1000+ mm."?
+
+[新生成] e.g., "List 3 things that are purple AND round."?
+
+[新生成] "List all vegetables that are grown for their roots. Why is that?
+
+[新生成] What are the items of (period) with the greatest relative difference in the occurrence of?
+
+[新生成] e.g. "List five cars that were manufactured before 1960"?
+
+[新生成] Q. How do I list all of the countries in North America with capitals on lakes or oceans?
+
+[新生成] "Challenge 1 - How many 5 letter Scrabble®-legal words can you find with exactly one I and at most two Q's?
+
+[新生成] "Inverted" version of the previous task, i.e. identify items without secondary features.?
+
+[新生成] For example, "What are the ingredients for an omelet?
+
+[新生成] "List the most famous actors and actresses in film."?
+
+[新生成] “What are some examples of fruit that have orange skin?
+
+[新生成] e.g. list 4 animals other than sheep or birds that are found in the Australian bush.?
+
+[新生成] “List the numbers between 10 to 100 inclusive divisible by either of two or three”.?
+
+[新生成] e.g. list all linear algebra applications for mathematicians?
+
+[新生成] The Ultimate Shopping List!?
+
+[新生成] use of the "list" environment (and the optional parameters, as needed), together with appropriate \item statements?
+
+[新生成] A 10-minute listing exercise.?
+
+[新生成] "What were the dates of significance for {Item} in its historical development?
+
+[新生成] e.g. List 10 different names of fruits that contain the letter O?
+
+[新生成] "List 3 types of mammals", "list the most important forces in physics".?
+
+[新生成] Listing two different conditions at once?
+
+[新生成] "List all integers between -1000 to 2000 inclusive which are divisible by either 8 or 12" (this is what I came up with)?
+
+[新生成] “List all the main types (types) of _________________ used by ________”?
+
+[新生成] "list things having property X" versus "[list things having property Y], but not..."?
+
+[新生成] “Find at least 6 items related to the city of [city name].” or another category.?
+
+[新生成] e.g. "List all the mammals that are not endangered".?
+
+[新生成] What are the four different combinations that can result by combining two items taken from three sets each containing 6 elements?
+
+[新生成] “What are the 3 (or more) major ways of making money for a college student with limited time?
+
+[新生成] What are the five greatest novels written since 1990 by non-American authors?
+
+[新生成] e.g. “List five vegetables that are not grown from seeds” or "list three pieces of fruit you can eat raw"?
+
+[新生成] What items from the set $\{1,2,\dots,n\}$ divide $n!$ evenly?
+
+[新生成] "List the things which are round, AND white."?
+
+[新生成] eg. "List five fruits that are not citrus".?
+
+[新生成] e.g. "List 3 kinds of plants that grow on the ground"?
+
+[新生成] What are three applications of calculus in everyday life?
+
+[新生成] "List all the countries in South America and Central America."?
+
+[新生成] A good example of this would be "List five types of animals found underwater". Remember, these questions are open ended.?
+
+[新生成] 1. This is an item in the list...etc?
+
+[新生成] for example, "List the types of mammals", or "List plants that are common household spices" - where'mammal' and/or 'plant/spice' would be concepts.?
+
+[新生成] "How many people know the names of five mammals that live exclusively on land?
+
+[新生成] “List all countries in Europe where the official language is English.”?
+
+[新生成] "What are the things I need if I want to go cycling in a forest during autumn?
+
+[新生成] how to include images in the enumerated questions?
+
+[新生成] e.g. "list three types of vegetables," or, if relevant to the domain: "give me three instances of when you've been hungry."?
+
+[新生成] for instance, "Name the kings of England who reigned after George III but before Victoria" or "In which years did Charles I reign?
+
+[新生成] i.e. “List five types of vehicles that can travel on land”; or: “Name four objects that float.” The questions should be challenging.?
+
+[新生成] e.g. “list types of rocks”, with “rocks” as the concept, and specific fields/domains being geology or science.?
+
+[新生成] e.g. ‘List five animals that live in the sea’?
+
+[新生成] e.g. 5 letter names, with no vowels in them.?
+
+[新生成] How many ways can you distribute 21 donuts among three friends in case you want to divide them equally and make everyone happy?
+
+[新生成] “What are the five most well-known and influential philosophers?
+
+[新生成] “What are five things you can use for [topic]?
+
+[新生成] [value]. Provide the name of each category and what you're looking for. Add as many categories as you like.?
+
+[新生成] for example, countries in Africa. List them fast and record your time.?
+
+[新生成] You can answer by listing at least one item, then saying "I'm sure I could name more!". For example:?
+
+[新生成] A list of common examples from 2017.?
+
+[新生成] (a) for which there are 15 possible outcomes or fewer, OR (b), if you wish to list the answers with all possible orderings.?
+
+[新生成] For each item in the following list, which has an attribute x and value y?
+
+[新生成] e.g. "For how many sets of two distinct integers between 1 and 100 inclusive is the product equal to their sum?
+
+[新生成] "How many fruits can you name starting with the letter B?
+
+[新生成] E.G. "Name five foods that can be roasted" (answer: potatoes, pork chops and so forth).?
+
+[新生成] What is the number of positive integers less than 2015 which are divisible by either one or six?
+
+[新生成] "List 4 types of nouns" (with answer: animal, location, person, object)?
+
+[新生成] Listing Items Meeting Both Conditions?
+
+[新生成] For instance, “List all elements of the set $A \times (B\setminus C)$”.?
+
+[新生成] A subset $S$ consisting entirely of odd numbers is formed by combining the sets, $\{5a+1|0 < a \leq 8\}$ and {$11b-2 | b > -3\}.$ What elements?
+
+[新生成] “ List the following :”?
+
+[新生成] minimum length, word boundary or not, case sensitive/case insensitive, character blacklist/whitelist.?
+
+[新生成] What are the top 5 countries that have large populations and high GDP per capita?
+
+[新生成] (e.g. "List five sports that are dangerous for young children").?
+
+[新生成] "List all the mammals that are larger than 2 meters long. "?
+
+[新生成] What's the most efficient way for someone with 20/200 vision (i.e. can only see one foot away) to get somewhere without walking?
+
+[新生成] “Enumerate six solutions in which the volume is exactly equal to 16.”?
+
+[新生成] I need to generate questions with the following structure: "List all x such that...and..." For example, list all prime numbers greater than 4?
+
+[新生成] “List the states of the union that border Ohio”, for instance.?
+
+[新生成] "List five animals that live on land."?
+
+[新生成] "List all nouns that begin with the letter 'F' and are longer than four letters."?
+
+[新生成] in 2 minutes, try and name all the foods that have salt.?
+
+[新生成] e.g. “List five fruits that begin with C”?
+
+[新生成] "List 10 vegetables that start with the letter V." A quiz may require knowledge of multiple categories.?
+
+[新生成] List all of the 2-digit prime numbers which are odd. This problem would be easier to read by using proper punctuation, but it makes sense regardless.?
+
+[新生成] “I’m looking for a laptop that’s under £2000. What else should I consider?
+
+[新生成] What if we wanted one without the other?
+
+[新生成] * start of phrase or sentence * not in other list?
+
+[新生成] e.g. List five animals that live underwater and what they eat.?
+
+[新生成] https://community.fantasyflightgames.com/topic/113981-create-a-timed-challenge-to-list-as-many-items-with-an-attribute-of-category/?
+
+[新生成] "List the [objects] that are [attribute 1], and also have attribute 2"?
+
+[新生成] a multiple-choice or free-text form for students to select a correct answer from the list of options provided.?
+
+[新生成] “Find us what tastes best”?
+
+[新生成] The objective is for the students to practice listing properties, characteristics and attributes from multiple types (of the same object or topic).?
+
+[新生成] Listing Items Meeting Both Conditions?
+
+[新生成] e.g. "list some vegetables that are grown outdoors", or, more generally: list Xs where Y.?
+
+[新生成] 1) all elements are distinct, and 2) no element is contained in another. For example the following lists would be accepted:?
+
+[新生成] This is usually done as an answer to the “Question 3” in the list style that requires a definition. You can use it to break up large definitions.?
+
+[新生成] For example, how quickly can you give the most common names for things in Australia?
+
+[新生成] "List five vegetables that start with the letter 'M'."?
+
+[新生成] List of articles on Wikipedia that are related in some way.?
+
+[新生成] Use with: Quantify. Examples (with commentary) How many different arrangements are there for the letters in “hello”?
+
+[新生成] For example, for the number 3 in this formulating a problem is: “How many ways can you put three children on an adult’s lap?
+
+[新生成] for example, listing 20 vegetables that start with the letter G.?
+
+[新生成] e.g., "List five fruits that are tasty."?
+
+[新生成] "List 15 American presidents in less than one minute."?
+
+[新生成] for example, the first item could be “Name an animal that can fly”, or “Give me five different types of pizza.”?
+
+[新生成] e.g. create a trivia game listing countries and their capitals, or types of cheese and the color they turn when ripe (i.e., blue), etc.?
+
+[新生成] "Name the elements in Periodic Table Group 2B having an electron configuration ending with n d subshell"?
+
+[新生成] "Name that thing! I’ll give you ten minutes!"?
+
+[新生成] The input are several lists of letters, and each list is followed by the desired result. For example:?
+
+[新生成] For example, "List five types of animal which live underwater."?
+
+[新生成] "Name all kinds of animals found in the world"?
+
+[新生成] "List all the US presidents in chronological order."?
+
+[新生成] "List five different types of animals that live near water."?
+
+[新生成] “List the countries in South America where Spanish is spoken?
+
+[新生成] “List five types of clothing that have pockets.”?
+
+[新生成] "List the countries in Western Europe with fewer than 15 million people. List them separately from those with more than 5 million."?
+
+[新生成] e.g. names of American states starting with "N".?
+
+[新生成] “What’s the next number in this series?
+
+[新生成] "List ten things that are round."?
+
+[新生成] “List the countries in Asia which are also part of OPEC”?
+
+[新生成] How do you identify an element as being in (a) list 1, AND also be part of(b)list two?
+
+[新生成] for example, “list 10 presidents of the United States in chronological order”. The solution should only include one item per answer.?
+
+[新生成] What are all the positive integers such that x^2 <= 100?
+
+[新生成] "List all algebraic equations with no more than one variable"?
+
+[新生成] (i.e., what is the name of this person, place or thing?
+
+[新生成] "Write a list of at least ten simple machines."?
+
+[新生成] What is the shortest code to get 1000 points?
+
+[新生成] List 1,000 U.S. State Capitals in Less than One Minute?
+
+[新生成] "What are some good books for beginners?
+
+[新生成] [name of item]. Each choice shall be based on one or more facts.?
+
+[新生成] https://stackoverflow.com/questions/57625811/cant-generate-a-list-of-words-for-typing-within-racket-lang.?
+
+[新生成] How many of the 16 people are taking at least one of these medicines: ibuprofen (Advil) or acetaminophen (Tylenol)?
+
+[新生成] In the case where the domain is all possible objects, e.g. "animals", I think an exhaustive list would be impractical.?
+
+[新生成] "What are some examples of foods that contain omega-3 fatty acids?
+
+[新生成] e.g., "How many different ways can the letters in 'STATISTICS' be rearranged?
+
+[新生成] http://codegolf.stackexchange.com/questions/15025/create-a-timed-challenge-to-list-as-many-number-items-with-character-n-possible?
+
+[新生成] "List the names of 3 countries that start with C" for example.?
+
+[新生成] For example, "List 3 examples of linear equations." or "Provide three examples of quadratic functions."?
+
+[新生成] e.g. to make an assessment, "What happened in the Spanish conquest of America?
+
+[新生成] a list of items, from which the student is expected to select (exactly) one item.  This question expects students' responses in answer format.?
+
+[新生成] all the letters are in the list.?
+
+[新生成] e.g. “List the different ways to represent exponential growth”, or "How many types of machine learning are there"?
+
+[新生成] What is the first time that this happened in [time frame]?
+
+[新生成] https://wakatime.com/segments/categories/games/timed_challenge/list_items_with_attribute?
+
+[新生成] What is your motivation for asking?
+
+[新生成] How many matches can you make in one minute?
+
+[新生成] List 10 different types of cheese or List every capital city in the U.S.?
+
+[新生成] i.e. "List five types of fruit that are red" or, if more specific detail is required: "Which tropical fruits have yellow flesh and thick skin"?
+
+[新生成] “Write the names of all things which have ….” | Homework Writings Help?
+
+[新生成] i.e. “List 10 foods high in fat” or “Name five animals native to Australia”?
+
+[新生成] "I don't have any good ideas for this, so I'll use one that occurred naturally recently. Can you name five pieces of furniture without legs?
+
+[新生成] "The challenge is in creating one or more lists of definitions and/or examples."?
+
+[新生成] for example "list 3 types of breads that are delicious".?
+
+[新生成] example: what is the smallest integer that meets all of these conditions?
+
+[新生成] what are the top N most frequent words in this category?
+
+[新生成] 'How many of the following are not in your home?
+
+[新生成] 1 ) what is the primary and secondary features in question?
+
+[新生成] e.g., What vegetables contain antioxidants?
+
+[新生成] e.g. "list the animals with 4 legs"?
+
+[新生成] "List ten animals that live on land." This function also includes the ability to make an automatic link from another article.?
+
+[新生成] {#cqi-create-a-question-asking-to-list-type-of-concept-in-specific-field-domain}?
+
+[新生成] use one or more words from the wordlist, can contain other characters (e.g.!#-@,$*^), must be at least X chars long.?
+
+[新生成] e.g. List an application that uses linear regression, or list a real-world example for Markov chains.?
+
+[新生成] 1-2 letters at start of word, ending with 'ion', or containing double vowels. The final compiled list must have all possible combinations.?
+
+[新生成] "List five foods you eat that contain carbohydrates."?
+
+[新生成] (e.g. “List five fruits which contain vitamin C.”)?
+
+[新生成] (e.g., List five types of vegetables that are eaten raw.) - This would be good for ESL learners.?
+
+[新生成] [category]. For example, "List the leaders of Britain during World War I".?
+
+[新生成] I've got the other direction with "How can I ask for lists?
+
+[新生成] For each item listed, write an equation that describes it.?
+
+[新生成] name or something in the description.?
+
+[新生成] what are the three colors that occur most often in [something]?
+
+[新生成] A question is formulated so that it can be answered by simply listing the needed number of answers.?
+
+[新生成] You could say, “Enumerate ten common types of animals that eat plants.?
+
+[新生成] “List the states of matter in which we can find liquids at room temperature.”?
+
+[新生成] "What are five different fruits that you like the most?
+
+[新生成] List words beginning in's'.?
+
+[新生成] What are the three main types of sedimentary rock?
+
+[新生成] e.g. "List five types of fruits" or "Name three pets that do not bark"?
+
+[新生成] [[list of choices]]. If an item from the list is not historically accurate, award a bonus point (or other reward).?
+
+[新生成] Use the following template to describe each item you want students to enumerate:?
+
+[新生成] "List all of the vegetables (e.g., carrots) grown by farmers in Nebraska"?
+
+[新生成] What things are you going to do today, what are your favorite places or people?
+
+[新生成] example: List 3 things you would not want to find in your house.?
+
+[新生成] {param} that 1. a and b are in the list, find c so that only (a,b,c) is in some way valid?
+
+[新生成] the length of each word, and how many vowels it contains.?
+
+[新生成] for example, "list the top 10 songs from Metallica". The winner is who can get their answer in first.?
+
+[新生成] List the names of states in West Virginia.?
+
+[新生成] length, vowels in the name (no more than 1 vowel), letters after X. Add the text file you want to use for this exercise with instructions as well.?
+
+[新生成] “Name all foods you eat to fulfill your recommended daily protein intake as well as the 5-a-day fruit requirement”?
+
+[新生成] (involving different lists)?
+
+[新生成] I want to enumerate the properties that are invariant under a transformation.?
+
+[新生成] Pro. "list five countries which start with letter A"?
+
+[新生成] List the top 3 largest lakes (or rivers) in France, Germany and Spain?
+
+[新生成] How is this different from simply listing all examples/concepts?
+
+[新生成] "What are the major fields/domains/concepts related to [field 1]?
+
+[新生成] using a conditional formula. Note: In order for the answer to list out more than one item, you need to use the {list} tag after your conditions.?
+
+[新生成] " List all states that have coastlines on three or more sides, and are bordered by two other countries. "?
+
+[新生成] "An object made by the {{#invoke:pagetype|factory}} in which one may see traces of several different periods" ({{name of historical period}})?
+
+[新生成] e.g. List all 10-letter words starting in ‘M’.?
+
+[新生成] "List at least five things you would do if you found an object that was made from gold."?
+
+[新生成] [tagline]. For instance, “List ten vegetables that start with the letter A”.?
+
+[新生成] eg. 1) Name the most popular brands of car; 2) List countries that use metric measurements or Imperial.?
+
+[新生成] "I have 2 students who meet conditions X. I need the most common condition in these two student's list."?
+
+[新生成] "List five items that are red"?
+
+[新生成] the answer is an unordered list of specific, concrete instances or elements which together encompass all possibilities in that domain.?
+
+[新生成] is it possible to have two lists, or use one bullet style for several lines?
+
+[新生成] "What is the smallest number $n$ such that there are exactly 2017 non-isomorphic undirected graphs on $\{1,2,\ldots,n\}$?
+
+[新生成] "List all mammals with hooves" or "List all animals larger than 1 meter in length."?
+
+[新生成] “List the 10 longest rivers in India” or "Name all Presidents of USA who were assassinated"?
+
+[新生成] the order in which things are listed is important.?
+
+[新生成] e.g. "List five plants that require full sun".?
+
+[新生成] for example, "can you name 50 US states in under two minutes?
+
+[新生成] [e.g.] "list types of numbers", or "give examples of 3rd party libraries for machine learning".?
+
+[新生成] “What 5 things in your living area meet the condition of containing air?
+
+[新生成] "List 3 vegetables that have [property]"?
+
+[新生成] (useful for listing different kinds of fruits, vegetables, flowers etc.)?
+
+[新生成] "What are the kinds of mammals where...?
+
+[新生成] What are the characteristics of the following elements?
+
+[新生成] for example, “List all animals you can think of which have four legs” or, more specifically and obviously, “Name five types of cat”.?
+
+[新生成] “Name all the plants you can think of that grow best when placed in shade.”?
+
+[新生成] for example, “formulate 5 questions about types of plants” or “formulate one question asking to enumerate species of birds.”?
+
+[新生成] letter sequence, vowel/consonant frequency and more. The resulting list should be sortable by score.?
+
+[新生成] How many natural numbers can be represented in the form?
+
+[新生成] What three numbers have the property that, for each pair (a,b), there exists another number c such that abc = 1?
+
+[新生成] in 30 seconds, what are the top five words ending in "er"?
+
+[新生成] i.e. 'Name an insect that has six legs'; or 'name a sport played on horseback'.?
+
+[新生成] What are the qualities that make for high quality teaching or learning?
+
+[新生成] e.g. “List as many examples of verbs that end with -fy” (Category=verbs, characteristic=endings), or “Name five words associated with ‘the beach’”.?
+
+[新生成] for example, this could ask students to name an item used during World War 2 from the list of items below:?
+
+[新生成] For example: “How many possible 5-letter words (with repetitions allowed) are there in English if the letters do not have to appear in order?
+
+[新生成] “Please name five plants that are good for growing on a balcony.”?
+
+[新生成] "The [title of the historical figure, work or era being asked about]," who lived around what year was...?
+
+[新生成] What is the number that must be multiplied by 3 to get $x$?
+
+[新生成] “Please provide examples in a bulleted list that are as brief but still convey the concept you’re describing.”?
+
+[新生成] "List the following items, as appropriate:"?
+
+[新生成] "What is the most interesting example of a circle?
+
+[新生成] For example, "List all the numbers divisible by 3 between -5 to +5" or "Ice cream flavours at your favorite ice-cream shop that are dairy-free".?
+
+[新生成] "For example, name five kinds of trees that live on your street."?
+
+[新生成] Given the list of integers, find two that will sum to 7 (Project Euler #1)?
+
+[新生成] Compose the condition part of each item to start with "For ___". List at least three items for each answer blank.?
+
+[新生成] "Give the names of five items made from wood. All of them are used for playing sports."?
+
+[新生成] What is the best [thing]?
+
+[新生成] "Find 10 cars parked outside the police station and identify them by model, year of production, colour and number plate.".?
+
+[新生成] "List all types of dinosaurs!" (with "Dinosaur" for category, and "isJurassic" or something like that), and when it's time up just reset the array.?
+
+[新生成] example, "What is the smallest possible set that contains elements x1,...,xn and y?
+
+[新生成] https://www.livescience.com/amp/health-nutrients.html - 40-50 in one minute. It's also good for memorizing the lists and improving reading fluency!?
+
+[新生成] e.g. Name the 40 largest mammals in Africa?
+
+[新生成] "List 4 examples of applications of matrix transformations." (from Linear Algebra)?
+
+[新生成] List all the integers greater than 10 but smaller than 20 which are divisible by either five or seven. Do you think I need to add anything?
+
+[新生成] e.g. "What were the three most important inventions of Leonardo da Vinci?
+
+[新生成] (i.e. list all states that have the capital city of Texas).?
+
+[新生成] e.g. "list five fruits that are sweet"?
+
+[新生成] For example:  “List all the places where you have been to which are more than five miles from your home.” Use “any” instead of “all.”?
+
+[新生成] "List all the movies you saw in 2010 but have seen again since."?
+
+[新生成] What were the reasons for the dissolution of (the) [nation, kingdom]?
+
+[新生成] an introduction to the use of 'enumerate' in LaTeX.?
+
+[新生成] 1. Define the type; 2. Identify possible members of domain satisfying the conditions specified by definition.?
+
+[新生成] length of word, length or phrase, inclusion/exclusion list (with partial matches), dictionary lookup and/or stemming.?
+
+[新生成] [list], where you fill in the blanks according to what I’ll explain later.?
+
+[新生成] “List the foods you have eaten in the last 24 hours, if they meet these two conditions: (1) your pet can't eat them; (2) they taste bad.”?
+
+[新生成] “Which of the following… is used in all the listed cases, without exceptions?
+
+[新生成] What are the most famous buildings in Florence, Italy?
+
+[新生成] for example, 'List five foods beginning "P"'?
+
+[新生成] [[#Historical Periods]] (choose an item from the list) [[#Item Types]]?
+
+[新生成] e.g. “List all integers that are divisible by 4”?
+
+[新生成] "List all [category] that are [property]".?
+
+[新生成] "List all the numbers between 1 to 10 whose sum of digits is less than 5. Then do this same thing for multiples of 4."?
+
+[新生成] E.g., How many words can be formed using the letters A,B,C and D without repeating any letter?
+
+[新生成] Askers expect answers that are more than just names or concepts.?
+
+[新生成] 2 items to be listed by year. The student is asked the following two questions:?
+
+[新生成] What are some positive integers that are prime and have fewer than 30 digits?
+
+[新生成] If the condition is true, list all elements; otherwise, return an empty string. For example:?
+
+[新生成] If the user forgets to provide those two arguments, an error is displayed. Here are some example questions: “What are five animals that live on land?
+
+[新生成] the following options must be from this list.?
+
+[新生成] "In what ways are the following two types of sentences alike: declarative, interrogative, imperative?
+
+[新生成] "List at least 3 vegetables you've had with fish"?
+
+[新生成] the intersection of "two lists"?
+
+[新生成] "List 3 types of dogs found in China: (A) with black coats, or (B) under weight."?
+
+[新生成] eg "List words that start with 'a' in under 5 seconds"?
+
+[新生成] for example, "How Many Countries Can You Name That Border France?
+
+[新生成] the process is to find what would be considered an appropriate number, and to choose an example domain.?
+
+[新生成] 1. The list is created from three lists of possible word combinations and the random selection algorithm picks one combination at each stage.?
+
+[新生成] “How many triangles are in this hexagon tessellation?
+
+[新生成] What are the odd items that fit into your space?
+
+[新生成] in 10 seconds, name 3 animals starting with the letter A; if you get all of them right and manage to think up an extra one - then you win.?
+
+[新生成] "List all the fruits you have in your home which are not red".?
+
+[新生成] For example, “List the books that are on your favorite author's bestseller lists”.?
+
+[新生成] Challenge Name (5 minutes) by [user]?
+
+[新生成] example: List five plants that are not grasses.?
+
+[新生成] What are some of the things that can be described as "green"?
+
+[新生成] the player who has listed most of them after 10 minutes wins!?
+
+[新生成] What are the names of 10 countries in Africa?
+
+[新生成] For example, “List five fast moving consumer goods”.?
+
+[新生成] "List five foods that are considered healthy"?
+
+[新生成] the question must be presented in an open-ended, non-hierarchical form (e.g. 'name three reasons' rather than name and order four advantages)?
+
+[新生成] List five fruits that are grown near the equator. This would be used as an example.?
+
+[新生成] I have three sets of numbers, $X$, $Y$ and $Z$. For any pair in $XY$ ($x$,$y$), there exists exactly one number $\{z\}$ such that x+y = z. What is?
+
+[新生成] e.g. 'list as many sports which are played in the rain'.?
+
+[新生成] How many of the primary things are not also secondary?
+
+[新生成] What can we learn from it?
+
+[新生成] "How many countries in Europe have both an Atlantic coastline, AND an Arctic coast?
+
+[新生成] "List all the states where it snows in winter AND they are part of New England." The answer should be Maine, Vermont, Connecticut, Rhode Island.?
+
+[新生成] List 10 different types of animals that live underwater.?
+
+[新生成] 1. “list” (for lists) or 2. “bullet-pointed bullet list”?
+
+[新生成] The result is the same as when I run my own code: Question: What vegetables can you find that grow above ground?
+
+[新生成] What are some examples that would fit under this definition?
+
+[新生成] “list some famous poets” or “write down the names of ten animals that live on land”?
+
+[新生成] Listing in conditional clauses?
+
+[新生成] "List the numbers in which there are three digits, but no two consecutive ones."?
+
+[新生成] name and attribute are taken from an example on your category pages (i.e. “Name: x” in the “List of y’s” page).?
+
+[新生成] 'Listing items from an intersection'?
+
+[新生成] for example, 'List five foods that are orange'?
+
+[新生成] “List all integers $a, b$ such that \(\ldots\)” (1 answer)?
+
+[新生成] How many items can be listed without any repetition?
+
+[新生成] "What's the next number in this sequence?
+
+[新生成] eg: List 3 words for ‘blue’ that start with S?
+
+[新生成] (1)  list the parts of speech. What type do they have in common?
+
+[新生成] e.g. “List all plants that are trees in 10 seconds”. You can’t have more than one answer (or you must remove it).?
+
+[新生成] 1. The following table lists each attribute and its value for the data set.?
+
+[新生成] What are five vegetables that grow above the ground?
+
+[新生成] (e.g. List five types of fruit that are red.)?
+
+[新生成] "List all types of animals that live on the savanna." "List all methods for studying physics". (4 pts)?
+
+[新生成] What is the sum of all positive integers $n$ for which there exist integer solutions to $(1+2^n)x^2-(4-3y)^2=0$. — 19/09/2020?
+
+[新生成] "Produce a question about listing examples of things" (2)?
+
+[新生成] "Give examples of 3 types of fruit." or "List three kinds of flowers."?
+
+[新生成] “Name the types of X with specific properties Y” (Part I)?
+
+[新生成] e.g. List two types of vegetables that are green?
+
+[新生成] eg "List 5 countries that begin with 'A'"?
+
+[新生成] is that enough to define what we mean by 'unique'?
+
+[新生成] “List the top 5 most famous dogs you can think of. Your answers should include their names, ages and the countries in which they live.”?
+
+[新生成] (e.g. list the names of students from class 3A with IQ >100)?
+
+[新生成] List two types of food poisoning that involve toxins.?
+
+[新生成] E.g. Name the colours of all objects visible from your left hand, in 20 seconds.?
+
+[新生成] What kinds of things must meet condition X AND condition Y for you to have the best possible _______?
+
+[新生成] "I need more time in my day", or whatever. It could be like a dictionary but would show the word/phrase and then how long it took to come up with.?
+
+[新生成] What is the maximum possible number of distinct items that can be generated?
+
+[新生成] <a href="/r/AskReddit/comments/pj1b5/can_you_list_10_sports_athletes_that_played_at/">Can you name 20 sports athletes that played at the same college?
+
+[新生成] “what” to be selected from the list in chronological order.?
+
+[新生成] List All US States and Capitals (in 3 minutes)?
+
+[新生成] http://puzzling.stackexchange.com/questions/1281/list-as-many-words-with-the-word-list-challenge?
+
+[新生成] (Example: List vegetables containing the letter I)?
+
+[新生成] e.g. “List five fruits that are red.” (and don’t have any other colors) This kind of knowledge has been used before, but not in the context of lists.?
+
+[新生成] (1) What is the maximum sum of an integer in this array, where two adjacent elements can be swapped?
+
+[新生成] “List all the countries in Europe (A) whose population is less than 500 million people (B).”?
+
+[新生成] If you get stuck, try changing to a "one of each" problem. Ex: List the names of all female students who take Statistics.?
+
+[新生成] "List the different types of... that are made up mainly of cells covered by flagella"?
+
+[新生成] "What was the year in which [event, person or other item of interest to your topic] happened?
+
+[新生成] List of things that contain 'ice'?
+
+[新生成] for example, "Can you name 10 mammals that start with A?
+
+[新生成] e.g. "List the first five odd numbers." or "Give me ten examples of animals that are endangered."?
+
+[新生成] A list of things with primary features and secondary sub-features. Create categories based on the exclusion of one or more secondary features.?
+
+[新生成] "list the five types of fish that are native to this river". Note: These words may be used in any order.?
+
+[新生成] Examples: "List the different ways you get water" or "Name some places that have fish"?
+
+[新生成] How are all the planets in our solar system named, which ones have rings around them and what is their order from nearest to furthest from Earth?
+
+[新生成] https://meta.stackexchange.com/questions/189890/can-i-create-a-timed-challenge-to-list-as-many-category-items-with-attribute?
+
+[新生成] "List all the types of diseases that are curable.".?
+
+[新生成] “list five”, “rank three” (or some other number), or “describe two”. This may be done in the form of a multiple-choice item, such as Figure 1.?
+
+[新生成] For example “List at least 10 foods that start with L” or “list all of the mammals in Africa”.?
+
+[新生成] "What is the date of the first appearance in Europe of [thing]"?
+
+[新生成] i.e. List examples of theorems or lemmas that are used as part of induction proofs.?
+
+[新生成] “find all names starting with T”.?
+
+[新生成] for example, "list the different kinds of birds" or?
+
+[新生成] Examples: 1. Name some foods high in fat. 2. What is the capital of each state?
+
+[新生成] e.g. "List algebraic data types that are not tuples."?
+
+[新生成] “List three reasons why you believe that the American Revolution was significant.”?
+
+[新生成] What are some basic rules for multiplying matrices?
+
+[新生成] e.g. List five vegetables that are green and start with the letter 'C'.?
+
+[新生成] i.e. List five types of bread, or list five foods that begin with the letter “f”.?
+
+[新生成] I'd like to ask "List as many things you can think of that are made by humans, have wheels on them and go fast".?
+
+[新生成] What is the main difference between linear and polynomial regression?
+
+[新生成] A set of questions are randomly generated, for example: How many vowels do you find in the word "cows"?
+
+[新生成] "What are some important inventions" or "Name three foods that have vitamin C", for example.?
+
+[新生成] eg. “list the names of all living American presidents”.?
+
+[新生成] e.g. "List three types of fruit that are red"?
+
+[新生成] (Ex. ‘list at least 3 vegetables that are good for salads’)?
+
+[新生成] I think this is too broad, but it sounds interesting to have the question "What are five examples of plants?
+
+[新生成] 1-10 points for each item listed before time runs out.?
+
+[新生成] the faster you name an item, the more points you earn.?
+
+[新生成] "name the breeds of sheep" or "list 5 fruits beginning with G".?
+
+[新生成] Name the first 10 [plural of category], all beginning with "C" or those ending in "-an"?
+
+[新生成] "List all animals you have ever owned that are not mammals, birds or reptiles"?
+
+[新生成] for instance, “List three different types of food that are good sources of carbohydrates.”?
+
+[新生成] (Example: If it's not too many, how many kinds of flowers are there in this garden?
+
+[新生成] name, country of origin etc. I will provide you the source lists and category/attribue.?
+
+[新生成] [[a number of]] events selected from the list below?
+
+[新生成] (e.g. “List five vegetables that are eaten raw”)?
+
+[新生成] for example, “List five vegetables that are green.” and show results?
+
+[新生成] {N} in the form What are N such Xs?
+
+[新生成] e.g. "List five fruits that are red"?
+
+[新生成] {[list of item types]}, and check that it can be answered correctly.?
+
+[新生成] 01:00 [list of category items, each on new line]?
+
+[新生成] 1) List all integers which are multiples of 2, greater than zero but less t?
+
+[新生成] e.g., "list some things that you love".?
+
+[新生成] e.g. “List the names of five birds from North America”.?
+
+[新生成] for example "list the 10 biggest cars that you can think of."?
+
+[新生成] 1. What is the smallest positive integer that cannot be written as sum of three consecutive numbers?
+
+[新生成] A puzzle where the answer requires listing more than one (unique) option?
+
+[新生成] $^$ (e.g. "List 5 types of functions encountered in economics")?
+
+========================================
+成功生成 976 个唯一问题
+========================================
+
+问题示例：
+1. Example: List all the triangles inscribed on circles, excluding right triangles and isosceles trangles.?
+2. "Identify the item that you think is not similar to each other"?
+3. What are the characteristics of the following elements?
+4. "Name all of the objects/numbers/names/etc in category C where attribute 1 is less than x AND attribute 2 is greater or equal to y."?
+5. “List the six states that are contiguous to Missouri,” not simply, “What is Missouri’s state motto?
+6. "How many countries in Europe have both an Atlantic coastline, AND an Arctic coast?
+7. [description]. Use the [object type]'s API, or find other lists.?
+8. e.g. List as many animals that live in Africa.?
+9. *List (at least) 50+ instances of the item in question. These may be from games, TV shows/movies/books or otherwise.?
+10. “List the 10 longest rivers in India” or "Name all Presidents of USA who were assassinated"?
+11. Example: 1. What were the names of two important European explorers, who came to North America during the Age of Exploration?
+12. e.g. how many integers from 0 to n, inclusive are divisible by neither of two {param} primes?
+13. “list five vegetables that are usually green”. Do not provide any constraints on the response set.?
+14. "List all animals you have ever owned that are not mammals, birds or reptiles"?
+15. "List all countries starting with 'C' who won the 2022 World Cup."?
+16. "List all positive integers less than 200 that are divisible by neither two nor three."?
+17. (n: number; type, domain) => "How many {type} are there in the set called {domain}?
+18. "What can be bought in the store?
+19. What if I added the twist of doing it in one hour or less?
+20. (A) is in the list of X, Y, Z; or (B) does not have value of C. How to use conditionals in the query?
+
+数据集已保存为 qa_dataset.json！
