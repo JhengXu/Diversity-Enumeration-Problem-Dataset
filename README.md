@@ -8,5 +8,10 @@ cd your-repo
 ## Install dependencies
 pip install -r requirements.txt
 
+## Then
+export HF_TOKEN="your_hf_token" 
+Please replace it with your actual token
+Including generate.py is also the same
+
 ## Run the project
 ./run.sh
